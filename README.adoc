@@ -180,6 +180,9 @@ endif::asciidoc-vars-nut-included[]
 //GH_MARKUP_1095_INCLUDE_END//
 
 
+Quickstart for Accurat Flux 850 with NUT: please refer to my gist https://gist.github.com/lvl47/a280c7d1a0a8a489c084c83b8f28f054
+--------------------------------------------------------------------------------------------------------------------------------
+
 Description
 -----------
 
